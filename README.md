@@ -7,7 +7,7 @@ The AI Website Chatbot is an **AI and Large Language Model (LLM)-based web appli
 **Developer:** Sangeetha K  
 **Organization:** Innovative Infotech  
 **CEO:** Sankar Arumugam  
-**Role:** AI   
+**Role:** AI Automation Developer Trainee  
 **Start Date:** June 2026  
 **Status:** Currently Working
 
